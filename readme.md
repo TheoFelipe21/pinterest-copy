@@ -30,7 +30,7 @@ Este projeto é uma cópia do Pinterest desenvolvida com Python, Flask, HTML e C
 ├── main.py
 ├── readme.md
 └── requirements
-
+```
 
 ## Descrição dos principais diretórios e arquivos
 
@@ -45,7 +45,7 @@ Este projeto é uma cópia do Pinterest desenvolvida com Python, Flask, HTML e C
 - **requirements**: Dependências do projeto.
 - **.gitignore**: Arquivos e pastas ignorados pelo Git.
 - **readme.md**: Documentação do projeto.
-```
+
 
 ## Funcionalidades
 
